@@ -1,0 +1,13 @@
+{
+  "name": "my-evidence-project",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "type": "module",
+  "dependencies": {
+    "@evidence-dev/evidence": "^0.1.0"
+  }
+}
